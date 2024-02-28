@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    padding-top: 40px;
+}
+    /* .fixed
+    {
+        position: fixed;
+        border: 1px solid  white;
+        width: 100%;
+        background-color: white;
+    } */
+.logo{
+    width: 100.74px;
+    height: 52px;
+    
+}
+.location{
+    display: flex;
+     
+}
+.dropdown{
+    line-height: 1px;
+    
+}
+#search{
+    margin-top: 13px;
+    position: absolute;
+    left: 280px;
+    
+}
+.navbar{
+   justify-content: space-evenly;
+   /* position: fixed; */
+}
+.hero-section{
+   
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+
+}
+.hero-image{
+    border-radius: 10px; 
+    margin: 25px ;  
+
+}
+.message{
+    margin-left: 100px;
+}
+.message1{
+    font-size: 22px;
+    line-height: 8px;
+    letter-spacing: -1px;
+}
+.dishes1{
+    margin-left: 8%;
+}
+.dishes2{
+    margin-left: 5.5%;
+}
+.dishes3{
+    margin-left: 6%;
+}
+.text{
+    font-weight: 500;
+    font-size: large;
+}
+.chicken-style{
+    height: 150px;
+    width: 220px !important;
+}
+.footer{
+    margin:3% -9%;
+    background-color: rgba(253, 165, 178, 0.144);
+    display: flex;
+}
+.l1{
+    line-height: 25px;
+}
+.logo2{
+    width: 75px;
+    
+}
+.touch{
+    font-weight: 500;
+}
+.line-through{
+    border-top: 1px solid black;
+    width: 90%;
+    margin-left: 9%;
+    margin-top:-1.5%;
+    opacity: 0.2;
+}
+.mumbai{
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: medium;
+    font-weight: 350;
+    padding: 6px;
+    margin-top: 1.5%;
+    border-radius: 40px;
+}
+.cities{
+    border: 1px solid transparent;
+    background-color: rgba(250, 235, 215, 0.305);
+    margin:1% -9% !important;
+}
+.cities1{
+    margin-left: 8%;
+}
+#Vishakhapatnam{
+    width:120px !important;
+}
+.searches{
+    margin-top: 7%;
+    margin-bottom: 2%;
+}
+.foot_sec{
+    border: 1px solid transparent;
+    background-color: rgba(0, 0, 0, 0.683);
+    margin:1% -9.5% 0% -9.5% !important;
+}
+.foot_line{
+    font-size: 12.5px;
+    text-align: center;
+    padding:0% 10% 2% 10%;
+    color: white;
+}
+.foot_line1{
+    font-weight: 600;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: white;
+}
+@media only screen and (max-width:430px) and (max-width: 932px) { 
+
+}
